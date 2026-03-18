@@ -10,3 +10,14 @@
 
 **Dashboard Overview:**
 ![Retail_Db](Retail_Db.PNG)
+
+# Project 2
+
+**Title:** [National Cancer Patient Experience Survey Dashboard](https://github.com/Ibk1cloud/Ibk1cloud.github.io/blob/main/Cancer_Patient_Survey.xlsx)
+
+**Tools Used:** Microsoft Excel(Pivot tables, Pivot charts, Timelines, Slicers, filters)
+
+**Project Description:**
+
+**Key Findings:**
+![Cancer_Patient_Db](Cancer_Patient_Db.PNG)
