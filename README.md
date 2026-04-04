@@ -85,3 +85,41 @@ The objective of this analysis is to identify key revenue drivers, profitability
 The dashboard integrates interactive filters such as date, region, product category, and retailer, allowing dynamic exploration of sales patterns and operational performance.
 
 ![Adidas_Dasboard](Adidas_Dasboard.PNG)
+
+
+# Project 4
+**Title:** NHS England Oatients Outcomes and Cost Analysis (2024-2025)
+ 
+**SQL Code:** [SQL Queries](https://github.com/Ibk1cloud/Ibk1cloud.github.io/blob/main/NHS_Pat_Outcomes.sql)
+ 
+**SQL Skills Used:**
+ - Data retrieval using SELECT and filtering with WHERE
+ - Aggregation using COUNT, SUM, and AVG
+ - Grouping and segmentation using GROUP BY
+ - Sorting results with ORDER BY
+ - Conditional logic using CASE WHEN
+ - Date functions for time-based analysis
+ - Calculation of metrics such as averages and percentages
+ - Data transformation for analytical insights
+ 
+**Project Description:** This project analyses a UK NHS-style patient dataset which covers the period from 2024 to 2025. The dataset captures hospital activities across NHS regions in England, including patient demographics, diagnosis groups, admission types, referral sources, waiting times, length of stay, treatment costs, and outcomes. The aim of the project is to use SQL to identify operational trends, patient outcome patterns, and cost drivers across NHS Trusts and hospitals.
+This portfolio project is designed to demonstrate practical SQL skills in a healthcare context while showing the ability to translate raw data into insights relevant to healthcare delivery, service efficiency, and patient outcomes.
+
+The objectives of the project are to analyse patient activity across NHS regions, trusts, and hospitals; compare waiting times and length of stay across diagnosis groups; evaluate treatment costs by diagnosis, region, and outcome; examine patient outcomes by age group and gender; and identify referral and admission patterns that may affect operational pressure.
+ 
+ **Technology used:** SQL server
+
+ **Key Insights:**
+  - Certain diagnosis groups are likely to drive higher average treatment costs and longer stays, indicating greater resource demand.
+  - Emergency admissions can reveal which NHS trusts are under the greatest operational pressure.
+  - Differences in waiting times across diagnosis groups may highlight service bottlenecks.
+  - Outcome patterns across age groups can help identify more vulnerable patient populations.
+  - Referral source analysis can show whether demand is driven more by GPs, consultants, A&E, or screening programmes.
+
+ **Recommendations:**
+  - Prioritise capacity planning in trusts with high emergency admission volumes.
+  - Review pathways for diagnosis groups with longer waiting times.
+  - Investigate hospitals with extended average length of stay for possible discharge delays or complexity of care.
+  - Use referral source trends to improve service planning and patient flow.
+  - Focus preventive and early intervention strategies on high-risk groups with poorer outcomes.
+ 
