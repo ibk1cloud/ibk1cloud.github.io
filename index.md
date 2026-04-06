@@ -1,12 +1,5 @@
-</> Markdown
----
-layout: default
-title: Home
----
 
-# My Portfolio
-
-Welcome to my data analyst projects.
+Welcome to my data analytics projects.
   
   # Project 1
 
@@ -33,6 +26,7 @@ The total recorded sales amount to £24.83 million, indicating a substantial vol
 
 **Dashboard Overview:** This dashboard provides an analysis of online retail transactions, focusing on total sales, product category performance, and payment method distribution. It highlights key trends in customer purchasing behaviour and revenue generation across different product categories.
 ![Retail_Db](Retail_Db.PNG)
+---
 
 # Project 2
 
@@ -62,7 +56,7 @@ This analysis aims to explore patterns in patient distribution, identify demogra
 The dashboard enables healthcare stakeholders to understand population trends, disparities, and potential inequalities in cancer diagnosis and care, supporting data-driven decision-making in improving patient outcomes and healthcare delivery.
 
 ![Cancer_Patient_Db](Cancer_Patient_Db.PNG)
-
+---
 
 # Project 3
 
@@ -95,7 +89,7 @@ The objective of this analysis is to identify key revenue drivers, profitability
 The dashboard integrates interactive filters such as date, region, product category, and retailer, allowing dynamic exploration of sales patterns and operational performance.
 
 ![Adidas_Dasboard](Adidas_Dasboard.PNG)
-
+---
 
 # Project 4
 **Title:** NHS England Patients Outcomes and Cost Analysis (2024-2025)
