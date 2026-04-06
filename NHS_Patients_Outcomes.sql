@@ -1,4 +1,4 @@
-##SQL queries
+#SQL queries
 
 1. Total patients by NHS region
   SELECT
