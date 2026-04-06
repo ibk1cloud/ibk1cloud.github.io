@@ -122,4 +122,3 @@ The objectives of the project are to analyse patient activity across NHS regions
   - Investigate hospitals with extended average length of stay for possible discharge delays or complexity of care.
   - Use referral source trends to improve service planning and patient flow.
   - Focus preventive and early intervention strategies on high-risk groups with poorer outcomes.
-
